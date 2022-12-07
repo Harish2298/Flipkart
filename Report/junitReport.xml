@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="94.669">
+    <testcase classname="Ecommerce Application" name="Home Page" time="94.422">
+        <system-out><![CDATA[Given user Launch The Application...........................................passed
+When user Select The Drop Down..............................................passed
+And user Enter Product In Searchbox.........................................passed
+Then user Click The Search Option...........................................passed
+And user Get Text Of All The Searched Products..............................passed
+Then user Check The Condition TO Click the Required Option..................passed
+And user Get The Screenshot Of The Current Page.............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
